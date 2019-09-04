@@ -2,7 +2,7 @@
 int main()
 {
 
-    printf("Hello World");
+    printf("%d",subtraction(30,20));
 
     return 0;
     }
