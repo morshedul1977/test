@@ -14,3 +14,12 @@ int main()
         y=30;
         return x+y;
     }
+
+ int subtraction())
+    {
+
+        int x,y;
+        x=20;
+        y=30;
+        return x-y;
+    }
