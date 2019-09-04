@@ -2,7 +2,8 @@
 int main()
 {
 
-    printf("Hello World");
+    printf("%d",subtraction(30,20));
+
     return 0;
     }
 
@@ -13,4 +14,9 @@ int main()
         x=20;
         y=30;
         return x+y;
+    }
+
+ int subtraction(int x, int y)
+    {
+        return x-y;
     }
